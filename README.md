@@ -27,6 +27,7 @@ customer relations. Graduated with Bachelors in Applied Science (Pass with Merit
 [Education](#education) <br>
 [Projects](#projects) <br>
 [Featured](#featured) <br> 
+[Freelancing](#freelancing) <br>
 
 <!-- ABOUT Section Ends -->
 
@@ -87,3 +88,5 @@ Machine Learning by Columbia University
 Star performer of the year at Accenture
 <!-- FEATURED Section Ends -->
 
+###FREELANCING
+I have 4 rescued cats with me now.
