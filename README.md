@@ -17,7 +17,9 @@
 
 <!-- Add your details -->
 
-I am __Kumar Vishwesh__, a seasoned data scientist with ~7 years of progressive experience in artificial intelligence. I have contributed as an AI product developer (R&D unit) and been AI consultant for top-notch clients in their AI journey. I am involved in comprehensive development, design & analysis of AI algorithms to build analytical solutions, while facilitating and leading data science teams.
+I am Wendy Tan, having 15 years of experience in Sales, spanning across Property, Stocks & Shares and Cryptocurrency.
+Results- oriented & motivated with a proven track record of achieving business sales targets through strategic implementation & good
+customer relations. Graduated with Bachelors in Applied Science (Pass with Merit). Major in Computational Finance. Minor in Math.
 
 
 <!-- Add link to the sections -->
